@@ -1,0 +1,22 @@
+{
+  "name": "jquery_pagination",
+  "version": "1.2",
+  "description": "This jQuery plugin displays pagination links inside the selected elements.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbirke/jquery_pagination.git"
+  },
+  "author": "Gabriel Birke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbirke/jquery_pagination/issues"
+  },
+  "homepage": "https://github.com/gbirke/jquery_pagination#readme"
+}
